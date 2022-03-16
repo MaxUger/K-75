@@ -677,7 +677,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer F.Cu) (tedit 60F271EF) (tstamp 62315398)
-    (at -182.051 -9.976)
+    (at 109.601 165.227)
     (path /6232D5F8)
     (attr smd)
     (fp_text reference K_Z1 (at 0 3.175) (layer F.Fab)
@@ -727,6 +727,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.393701 0.3937 0.393701))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -842,7 +847,7 @@
   )
 
   (module MX_Only:MXOnly-1.25U-Hotswap (layer F.Cu) (tedit 60F27234) (tstamp 62315320)
-    (at -259.30975 10.224)
+    (at 92.837 184.277)
     (path /62339D55)
     (attr smd)
     (fp_text reference K_Win1 (at 0 3.048) (layer F.Fab)
@@ -892,6 +897,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.3937 0.3937 0.3937))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1007,7 +1017,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer F.Cu) (tedit 60F271EF) (tstamp 623152A8)
-    (at -202.251 -9.976)
+    (at 338.201 169.926)
     (path /623A155A)
     (attr smd)
     (fp_text reference K_upArrow1 (at 0 3.175) (layer F.Fab)
@@ -1057,6 +1067,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.393701 0.3937 0.393701))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1411,7 +1426,7 @@
   )
 
   (module MX_Only:MXOnly-1.25U-Hotswap (layer F.Cu) (tedit 60F27234) (tstamp 6231518C)
-    (at -234.34975 10.224)
+    (at 307.34 165.227)
     (path /6238CAEA)
     (attr smd)
     (fp_text reference K_rightShift1 (at 0 3.048) (layer F.Fab)
@@ -1641,7 +1656,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer F.Cu) (tedit 60F271EF) (tstamp 623150EC)
-    (at -161.851 -10.616)
+    (at 152.4 127.127)
     (path /62353482)
     (attr smd)
     (fp_text reference K_R1 (at 0 3.175) (layer F.Fab)
@@ -1691,6 +1706,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.393701 0.3937 0.393701))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1976,7 +1996,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer F.Cu) (tedit 60F271EF) (tstamp 62314FFC)
-    (at -141.651 -10.616)
+    (at 204.851 165.227)
     (path /62361489)
     (attr smd)
     (fp_text reference K_N1 (at 0 3.175) (layer F.Fab)
@@ -2026,6 +2046,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.393701 0.3937 0.393701))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -2260,7 +2285,7 @@
   )
 
   (module MX_Only:MXOnly-1.25U-Hotswap (layer F.Cu) (tedit 60F27234) (tstamp 62314F30)
-    (at -224.82975 -9.976)
+    (at 116.713 184.277)
     (path /623741E2)
     (attr smd)
     (fp_text reference K_leftAlt1 (at 0 3.048) (layer F.Fab)
@@ -2310,6 +2335,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.3937 0.3937 0.3937))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -2430,7 +2460,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer F.Cu) (tedit 60F271EF) (tstamp 62314EB8)
-    (at -108.311 -11.256)
+    (at 214.376 146.177)
     (path /62365E06)
     (attr smd)
     (fp_text reference K_J1 (at 0 3.175) (layer F.Fab)
@@ -2480,6 +2510,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.393701 0.3937 0.393701))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -3100,7 +3135,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer F.Cu) (tedit 60F271EF) (tstamp 62314CD8)
-    (at -88.111 -11.256)
+    (at 209.55 84.201)
     (path /6230E44D)
     (attr smd)
     (fp_text reference K_F7 (at 0 3.175) (layer F.Fab)
@@ -3150,6 +3185,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.393701 0.3937 0.393701))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -3490,7 +3530,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer F.Cu) (tedit 60F271EF) (tstamp 62314BC0)
-    (at -67.911 -11.256)
+    (at 66.675 84.201)
     (path /62310A27)
     (attr smd)
     (fp_text reference K_Esc1 (at 0 3.175) (layer F.Fab)
@@ -3540,6 +3580,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.393701 0.3937 0.393701))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -3894,7 +3939,7 @@
   )
 
   (module MX_Only:MXOnly-1.75U-Hotswap (layer F.Cu) (tedit 60F2723F) (tstamp 62314AA4)
-    (at -254.54725 -9.976)
+    (at 73.914 146.177)
     (path /62320EEA)
     (attr smd)
     (fp_text reference K_capsLock1 (at 0 3.175) (layer F.Fab)
@@ -3944,6 +3989,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.3937 0.3937 0.3937))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -4403,7 +4453,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer F.Cu) (tedit 60F271EF) (tstamp 62314938)
-    (at -7.311 -11.256)
+    (at 271.526 146.177)
     (path /6238661E)
     (attr smd)
     (fp_text reference K_;1 (at 0 3.175) (layer F.Fab)
@@ -4453,6 +4503,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.393701 0.3937 0.393701))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -4623,7 +4678,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer F.Cu) (tedit 60F271EF) (tstamp 62314898)
-    (at -16.671 -31.456)
+    (at 238.125 108.077)
     (path /6237DE55)
     (attr smd)
     (fp_text reference K_9 (at 0 3.175) (layer F.Fab)
@@ -4673,6 +4728,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.393701 0.3937 0.393701))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -4848,7 +4908,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer F.Cu) (tedit 60F271EF) (tstamp 623147F8)
-    (at -27.511 -11.256)
+    (at 161.925 108.077)
     (path /623596FA)
     (attr smd)
     (fp_text reference K_5 (at 0 3.175) (layer F.Fab)
@@ -4898,6 +4958,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.393701 0.3937 0.393701))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -5013,7 +5078,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer F.Cu) (tedit 60F271EF) (tstamp 62314780)
-    (at -47.711 -11.256)
+    (at 104.775 108.077)
     (path /62342D1E)
     (attr smd)
     (fp_text reference K_2 (at 0 3.175) (layer F.Fab)
@@ -5063,6 +5128,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.393701 0.3937 0.393701))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
@@ -5123,7 +5193,7 @@
   )
 
   (module MX_Only:MXOnly-1U-Hotswap (layer F.Cu) (tedit 60F271EF) (tstamp 62314730)
-    (at 3.529 -31.456)
+    (at 242.951 165.227)
     (path /6236D347)
     (attr smd)
     (fp_text reference K_,1 (at 0 3.175) (layer F.Fab)
@@ -5173,6 +5243,11 @@
     (model ${KILIB}/MX_Alps_Hybrid.pretty/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
       (offset (xyz 0 0 -1.4868))
       (scale (xyz 0.393701 0.3937 0.393701))
+      (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes/CPG151101S11.wrl
+      (offset (xyz 0 0 -1.75))
+      (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 0 0))
     )
   )
