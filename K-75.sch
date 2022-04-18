@@ -2710,4 +2710,46 @@ Wire Wire Line
 	10900 3250 10900 5000
 Connection ~ 10900 3250
 Connection ~ 10900 5000
+Text GLabel 4750 9450 2    50   Input ~ 0
+COL0
+Text GLabel 4750 9650 2    50   Input ~ 0
+COL1
+Text GLabel 4750 9750 2    50   Input ~ 0
+COL2
+Text GLabel 4750 9850 2    50   Input ~ 0
+COL3
+Text GLabel 4750 9950 2    50   Input ~ 0
+COL4
+Text GLabel 4750 10050 2    50   Input ~ 0
+COL5
+Text GLabel 4750 10150 2    50   Input ~ 0
+COL6
+Text GLabel 4750 8250 2    50   Input ~ 0
+COL7
+Text GLabel 4750 8150 2    50   Input ~ 0
+COL8
+Text GLabel 4750 7850 2    50   Input ~ 0
+COL9
+Text GLabel 4750 7750 2    50   Input ~ 0
+COL10
+Text GLabel 4750 7650 2    50   Input ~ 0
+COL11
+Text GLabel 4750 9150 2    50   Input ~ 0
+COL12
+Text GLabel 4750 9050 2    50   Input ~ 0
+COL13
+Text GLabel 4750 8850 2    50   Input ~ 0
+COL14
+Text GLabel 4750 7350 2    50   Input ~ 0
+ROW0
+Text GLabel 4750 7450 2    50   Input ~ 0
+ROW1
+Text GLabel 4750 7550 2    50   Input ~ 0
+ROW2
+Text GLabel 4750 8550 2    50   Input ~ 0
+ROW3
+Text GLabel 4750 8450 2    50   Input ~ 0
+ROW4
+Text GLabel 4750 7950 2    50   Input ~ 0
+ROW5
 $EndSCHEMATC
