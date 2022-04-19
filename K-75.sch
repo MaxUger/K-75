@@ -3128,14 +3128,20 @@ COL3
 Text GLabel 4750 7950 2    50   Input ~ 0
 COL14
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0112
 U 1 1 62738D63
 P 5900 10800
-F 0 "#PWR?" H 5900 10650 50  0001 C CNN
+F 0 "#PWR0112" H 5900 10650 50  0001 C CNN
 F 1 "+5V" H 5915 10973 50  0000 C CNN
 F 2 "" H 5900 10800 50  0001 C CNN
 F 3 "" H 5900 10800 50  0001 C CNN
 	1    5900 10800
 	1    0    0    -1  
 $EndComp
+Text GLabel 4750 8450 2    50   Input ~ 0
+rotarySwitch
+Text GLabel 4750 8550 2    50   Input ~ 0
+A
+Text GLabel 4750 8650 2    50   Input ~ 0
+B
 $EndSCHEMATC
